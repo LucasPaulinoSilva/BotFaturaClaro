@@ -100,7 +100,7 @@ Após selecionar a conta da cidade correta, o robô verifica se irá aparecer um
 
 </br>
 
-Em seguida, o clique para realizar o download da fatura é feito aguardando um intervalo de 10 segundos, caso de algum erro, o clique é feito novamente, então a conta em formato pdf é finalmente baixada:
+Em seguida, o clique para realizar o download da fatura é feito aguardando um intervalo de 10 segundos, caso surja algum erro, o clique é feito novamente, então a conta em formato pdf é finalmente baixada:
 
 <div align="center">
 <img src = "images/DownloadFatura.PNG">
